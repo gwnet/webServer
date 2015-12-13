@@ -1,0 +1,8 @@
+J:\WayneProjects\Huawei\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+J:\WayneProjects\Huawei\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\WayneProjects\Huawei\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\WayneProjects\Huawei\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\WcfServiceLibrary1.dll
+J:\WayneProjects\Huawei\WcfServiceLibrary1\ConsoleApplication1\bin\Debug\WcfServiceLibrary1.pdb
+J:\WayneProjects\Huawei\WcfServiceLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+J:\WayneProjects\Huawei\WcfServiceLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+J:\WayneProjects\Huawei\WcfServiceLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
